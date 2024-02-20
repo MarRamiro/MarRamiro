@@ -11,13 +11,13 @@ I'm a student at Universidad Complutense de Madrid and an exchange student at UC
 
 ## 🎮 Featured Project: Roll It
 
-**Roll It** is a Java game that combines creative design with solid coding. It demonstrates my enthusiasm for crafting engaging experiences.
+**Roll It** is a Java game that combines creative design with solid coding. It demonstrates my enthusiasm for crafting engaging experiences and team work.
 
 [Check out Roll It](https://github.com/UCM-FDI-DISIA/proyectois2dg2022-pmc) 
 
 ## 🚀 Looking Forward
 
-Eager to apply my skills in computer science and math, especially differential geometry, to groundbreaking research. Aiming to blend theory with practical applications in future collaborations.
+Eager to apply my skills in computer science and math, to groundbreaking research. Aiming to blend theory with practical applications in future collaborations.
 
 ## 📫 Connect With Me
 
