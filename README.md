@@ -2,26 +2,24 @@
 
 ## 🧠 About Me
 
-I'm deeply passionate about mathematics research and have a keen interest in computer science & engineering. My academic and personal projects reflect my enthusiasm for exploring the intersection of math and computer science to solve complex problems and create innovative solutions.
+I'm a student at Universidad Complutense de Madrid and an exchange student at UCI, where I also play rugby 🏉 and work as an undergrad research assistant with the Networks, Computation, and Social Dynamics (NCASD) lab. I'm passionate about mathematics and computer science & engineering, constantly exploring their intersection to tackle complex problems and innovate.
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Proficient in Java, C++, C, Python, and SQL.
-- **Technologies:** Experienced in developing robust software solutions, with a strong foundation in algorithm design and system optimization.
+- **Programming Languages:** Java, C++, C, Python, SQL
+- **Technologies:** Software development, algorithm design, system optimization
 
 ## 🎮 Featured Project: Roll It
 
-**Roll It** is a dynamic game developed using Java, showcasing my ability to blend creative game design with solid programming skills in a team. This project is a testament to my passion for creating engaging user experiences through code.
+**Roll It** is a Java game that combines creative design with solid coding. It demonstrates my enthusiasm for crafting engaging experiences.
 
 [Check out Roll It](https://github.com/UCM-FDI-DISIA/proyectois2dg2022-pmc) 
 
-## 🚀 I'm excited to...
+## 🚀 Looking Forward
 
-Leverage my skills in computer science and mathematics to contribute to cutting-edge research projects. I'm particularly eager to apply my knowledge of differential geometry in practical, innovative ways. My goal is to collaborate on projects that push the boundaries of what's possible, blending theoretical insights with real-world applications.
+Eager to apply my skills in computer science and math, especially differential geometry, to groundbreaking research. Aiming to blend theory with practical applications in future collaborations.
 
-## 📫 Get in Touch
-
-Feel free to reach out to me for collaborations, project discussions, or just to say hi! Here's how you can connect with me:
+## 📫 Connect With Me
 
 - **GitHub:** [@MarRamiro](https://github.com/MarRamiro)
 - **LinkedIn:** [Mar Ramiro](https://www.linkedin.com/in/maría-del-mar-ramiro-ortega-366565282/) 
@@ -29,5 +27,4 @@ Feel free to reach out to me for collaborations, project discussions, or just to
 
 ---
 
-I'm always on the lookout for new challenges and opportunities to learn. Let's make something amazing together!
-
+Driven by curiosity, I seek challenges and learning opportunities. Let's innovate together!
