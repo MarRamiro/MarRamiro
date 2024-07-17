@@ -16,7 +16,8 @@ I'm a student at Universidad Complutense de Madrid and an exchange student at UC
 [Check out Roll It](https://github.com/UCM-FDI-DISIA/proyectois2dg2022-pmc) 
 
 **Green Guardian** is an IoT device that simplifies plant care with near-autonomous soil moisture management and an integrated watering system.
-[Check our Green Guardian](https://www.green-guardian.org/)
+
+[Check out Green Guardian](https://www.green-guardian.org/)
 
 ## 🚀 Looking Forward
 
