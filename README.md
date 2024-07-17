@@ -2,18 +2,21 @@
 
 ## 🧠 About Me
 
-I'm a student at Universidad Complutense de Madrid and an exchange student at UCI, where I also play rugby 🏉 and work as an undergrad research assistant with the Networks, Computation, and Social Dynamics (NCASD) lab. I'm passionate about mathematics and computer science & engineering, constantly exploring their intersection to tackle complex problems and innovate.
+I'm a student at Universidad Complutense de Madrid and an exchange student at UCI, where I also play rugby 🏉. I'm passionate about mathematics and computer science & engineering, constantly exploring their intersection to tackle complex problems and innovate.
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Java, C++, C, Python, SQL
+- **Programming Languages:** Java, C++, C, Python, SQL, Assembl
 - **Technologies:** Software development, algorithm design, system optimization
 
 ## 🎮 Featured Project: Roll It
 
-**Roll It** is a Java game that combines creative design with solid coding. It demonstrates my enthusiasm for crafting engaging experiences and team work.
+**Roll It** is a Java game that combines creative design with solid coding.
 
 [Check out Roll It](https://github.com/UCM-FDI-DISIA/proyectois2dg2022-pmc) 
+
+**Green Guardian** is an IoT device that simplifies plant care with near-autonomous soil moisture management and an integrated watering system.
+[Check our Green Guardian](https://www.green-guardian.org/)
 
 ## 🚀 Looking Forward
 
