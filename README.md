@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a student at University of Copenhagen, where I also play futsal. I'm passionate about mathematics and computer science & engineering, constantly exploring their intersection to tackle complex problems and innovate.
+I'm a student at University of Copenhagen, where I also play futsal. I'm passionate about mathematics, social sciences and computer science & engineering, constantly exploring their intersection to tackle complex problems and innovate.
 
 ## Skills
 
