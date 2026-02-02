@@ -17,7 +17,7 @@ I'm a student at University of Copenhagen, where I also play futsal. I'm passion
 
 **Green Guardian** is an IoT device that simplifies plant care with near-autonomous soil moisture management and an integrated watering system.
 
-[Check out Green Guardian](https://www.green-guardian.org/)
+[Check out Green Guardian]([https://www.green-guardian.org/](https://github.com/DivyaSanjay/Green_Guardian))
 
 ## Connect With Me
 
