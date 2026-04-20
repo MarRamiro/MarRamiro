@@ -4,7 +4,9 @@
 
 I'm a student at University of Copenhagen, where I also play futsal. I'm passionate about mathematics, social sciences and computer science & engineering, constantly exploring their intersection to tackle complex problems and innovate.
 
-## 🚀 Featured Project: LGTBIQ-phobia on Twitter Before and After Elon Musk
+## Projects
+
+### LGTBIQ-phobia on Twitter Before and After Elon Musk
 
 Evolution of LGTBIQ-phobia on Twitter surrounding the acquisition of the platform by Elon Musk.
 
@@ -15,13 +17,15 @@ Evolution of LGTBIQ-phobia on Twitter surrounding the acquisition of the platfor
 
 [View Project Repository](https://github.com/MarRamiro/Analysis-Twitter)
 
-## 💻 Other Projects
+### Roll It
 
-**Roll It** is a Java game that combines creative design with solid coding.
+Java game that combines creative design with solid coding.
 
 [Check out Roll It](https://github.com/UCM-FDI-DISIA/proyectois2dg2022-pmc) 
 
-**Green Guardian** is an IoT device that simplifies plant care with near-autonomous soil moisture management and an integrated watering system.
+## Green Guardian
+
+IoT device that simplifies plant care with near-autonomous soil moisture management and an integrated watering system.
 
 [Check out Green Guardian](https://github.com/DivyaSanjay/Green_Guardian)
 
@@ -35,6 +39,3 @@ Evolution of LGTBIQ-phobia on Twitter surrounding the acquisition of the platfor
 - **GitHub:** [@MarRamiro](https://github.com/MarRamiro)
 - **LinkedIn:** [Mar Ramiro](https://www.linkedin.com/in/maría-del-mar-ramiro-ortega-366565282/) 
 - **Email:** marram18@ucm.es 
-
----
-
