@@ -4,7 +4,7 @@
 
 I'm a student at University of Copenhagen, where I also play futsal. I'm passionate about mathematics, social sciences and computer science & engineering, constantly exploring their intersection to tackle complex problems and innovate.
 
-## 🚀 Featured Project: LGBTQ+ Phobia on Twitter Before and After Elon Musk
+## 🚀 Featured Project: LGTBIQ-phobia on Twitter Before and After Elon Musk
 
 Evolution of LGTBIQ-phobia on Twitter surrounding the acquisition of the platform by Elon Musk.
 
