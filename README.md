@@ -23,7 +23,7 @@ Java game that combines creative design with solid coding.
 
 [Check out Roll It](https://github.com/UCM-FDI-DISIA/proyectois2dg2022-pmc) 
 
-## Green Guardian
+### Green Guardian
 
 IoT device that simplifies plant care with near-autonomous soil moisture management and an integrated watering system.
 
